@@ -1,0 +1,38 @@
+Name,//*[@id="quote-header-info"]/div[2]/div[1]/div[1]/h1,1
+Ticker,None,6
+Inv. Type: MF or ETF,//*[@id="premium_research"]/div/table/tbody/tr[2]/th,5
+Morningstar Category,//*[@id="Col1-0-Profile-Proxy"]/section/div[2]/div[1]/div/div[1]/span[2],2
+MorningStar rating: 3 years,none,8
+MorningStar rating: 5 years,none,9
+MorningStar rating: 10 years,none,10
+MorningStar rating: Overall,none,11
+Total Return: 1 year,//*[@id="Col1-0-Performance-Proxy"]/section/div[2]/div/div[5]/span[2],3
+Total Return: 3 year,//*[@id="Col1-0-Performance-Proxy"]/section/div[2]/div/div[6]/span[2],3
+Total Return: 5 year,//*[@id="Col1-0-Performance-Proxy"]/section/div[2]/div/div[7]/span[2],3
+Total Return: 10 year,//*[@id="Col1-0-Performance-Proxy"]/section/div[2]/div/div[8]/span[2],3
+2010,//*[@id="Col1-0-Performance-Proxy"]/section/div[3]/div/div[13]/span[3],3
+2011,//*[@id="Col1-0-Performance-Proxy"]/section/div[3]/div/div[12]/span[3],3
+2012,//*[@id="Col1-0-Performance-Proxy"]/section/div[3]/div/div[11]/span[3],3
+2013,//*[@id="Col1-0-Performance-Proxy"]/section/div[3]/div/div[10]/span[3],3
+2014,//*[@id="Col1-0-Performance-Proxy"]/section/div[3]/div/div[9]/span[3],3
+2015,//*[@id="Col1-0-Performance-Proxy"]/section/div[3]/div/div[8]/span[3],3
+2016,//*[@id="Col1-0-Performance-Proxy"]/section/div[3]/div/div[7]/span[3],3
+2017,//*[@id="Col1-0-Performance-Proxy"]/section/div[3]/div/div[6]/span[3],3
+2018,//*[@id="Col1-0-Performance-Proxy"]/section/div[3]/div/div[5]/span[3],3
+2019,//*[@id="Col1-0-Performance-Proxy"]/section/div[3]/div/div[4]/span[3],3
+2020,//*[@id="Col1-0-Performance-Proxy"]/section/div[3]/div/div[3]/span[3],3
+YTD Return,//*[@id="Col1-0-Profile-Proxy"]/section/div[2]/div[1]/div/div[4]/span[2],2
+Net Expense Ratio,//*[@id="Col1-0-Profile-Proxy"]/section/div[2]/div[3]/div/div[3]/span[2],2
+Gross Expense Ratio, //*[@id="Col1-0-Profile-Proxy"]/section/div[2]/div[3]/div/div[4]/span[2],2
+Std Dev: 3 years,//*[@id="Col1-0-Risk-Proxy"]/section/div[2]/div/div[6]/div[2]/span[1],4
+Std Dev: 5 years,//*[@id="Col1-0-Risk-Proxy"]/section/div[2]/div/div[6]/div[3]/span[1],4
+Std Dev: 10 years,//*[@id="Col1-0-Risk-Proxy"]/section/div[2]/div/div[6]/div[4]/span[1],4
+Sharpe Ratio: 3 years,//*[@id="Col1-0-Risk-Proxy"]/section/div[2]/div/div[7]/div[2]/span[1],4
+Sharpe Ratio: 5 years,//*[@id="Col1-0-Risk-Proxy"]/section/div[2]/div/div[7]/div[3]/span[1],4
+Sharpe Ratio: 10 years,//*[@id="Col1-0-Risk-Proxy"]/section/div[2]/div/div[7]/div[4]/span[1],4
+Cash,none,12
+US Stocks,none,13
+INT. Stocks,none,14
+Us Bonds,none,15
+Int. Bond, none,16
+Others,none,17
