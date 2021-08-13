@@ -1,3 +1,4 @@
+import os
 import threading
 from csv import writer
 import requests
@@ -12,6 +13,7 @@ from xlsxwriter.exceptions import FileCreateError
 import Get_Style_Data
 
 from tkinter.ttk import *
+
 
 
 def Get_roots(name):
@@ -376,6 +378,7 @@ def Update_bar():
 
 
 def run_program(output_file, input_file, fund_type):
+    #output_file = output_file
     open(output_file, "w").close()
     lists_from_csv = []
     f = open("ProgramFiles/XPaths/Yahoo_X_paths.csv", 'r')
